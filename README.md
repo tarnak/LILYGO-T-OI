@@ -1,5 +1,7 @@
 # LILYGO-T-OI
 
+https://www.youtube.com/watch?v=ajt7vtgKNNM
+
 ![](https://github.com/LilyGO/LILYGO-T-OI/blob/master/image/TOI.jpg)
 
 W ładowarce Xtar VC2 możemy też doładowywać akumulatory do pełna. Najpierw wkładamy akumulator do ładowarki i czekamy, aż jego napięcie spadnie poniżej 4.1V. Nastąpi to w czasie procesu samorozładowania. Akumulatory o napięciu 4,1V lub wyższym są traktowane przez ładowarkę jako naładowane. Doładowywanie rozpocznie się gdy napięcie spadnie poniżej 4.1V.
